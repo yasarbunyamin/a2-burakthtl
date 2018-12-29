@@ -1,1 +1,1 @@
-https://YOURAPPNAME.herokuapp.com/
+https://burakthtl.herokuapp.com/
